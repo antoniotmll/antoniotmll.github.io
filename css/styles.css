@@ -19,3 +19,10 @@ html, body {
     text-align: center;
 }
 
+.footer {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
